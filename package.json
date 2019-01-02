@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-jb-alipay",
+  "version": "1.0.1",
+  "description": "a cordova plugin, a JS version of Alipay SDK(20170725)",
+  "cordova": {
+    "id": "cordova-plugin-jb-alipay",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "alipay",
+    "cordova-plugin-jb-alipay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoyuZheng666/AlipayPlugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XiaoyuZheng666/AlipayPlugin/issues"
+  },
+  "homepage": "https://github.com/XiaoyuZheng666/AlipayPlugin#readme",
+  "author": "xiaoyuZheng",
+  "license": "MIT License"
+}
